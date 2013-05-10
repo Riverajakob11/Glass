@@ -1,0 +1,5 @@
+Use thes images to replace the default Control Panel Images in the shell32.dll using Restorator.
+
+If your using x64 then you will need to replace them in System32 and SysWOW64, Coppy the shell32.dll 
+to the desktop firt and Take Ownership and rename the originals to shell32.dll.bak and the after you 
+have replaced the images paste them back in and Restart.
