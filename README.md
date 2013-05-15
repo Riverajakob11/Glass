@@ -1,6 +1,6 @@
 Simply Black Rainmeter Theme
 ======================
-My first Ranmeter theme
+
 
 Latest Version
 ==============
@@ -8,7 +8,7 @@ The latest version is: 1.0
 
 About this skin
 ===============
-Simply Black is a simple rainmeter theme for Rainmeter.It retrieves information like CPU and RAM usage,network speed,disk space and more.Download it on my deviantart profile:www.jakobaindreas.deviantart.com
+**Simply Black** is a simple rainmeter theme for Rainmeter.It retrieves information like CPU and RAM usage,network speed,disk space and more.Download it on my deviantart profile:www.jakobaindreas.deviantart.com
 
 Edit Code
 =========
