@@ -33,7 +33,7 @@ Have ideas? Fork this repo and send [pull requests][pull] but it must be on deve
 License
 -------
 
-The licanse of this repository is in [here][repolicense]
+The license of this repository is in [here][repolicense]
 
 [repolicense]:https://github.com/Riverajakob11/Simply-Rainmeter-Theme/blob/master/LICENSE.md
 
