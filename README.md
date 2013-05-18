@@ -18,7 +18,7 @@ Download it on my dA [profile][web]
 
 [web]:http://www.jakobaindreas.deviantart.com
 
-Edit Code
+Code Editing
 ---------
 
 You can edit the source code but needs approval by the owner of the skin
