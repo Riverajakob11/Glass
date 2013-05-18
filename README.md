@@ -18,7 +18,7 @@ Download it on my dA [profile][web]
 
 [web]:http://www.jakobaindreas.deviantart.com
 
-Edit Code
+Code Editing
 ---------
 
 You can edit the source code but needs approval by the owner of the skin
@@ -26,7 +26,9 @@ You can edit the source code but needs approval by the owner of the skin
 Ideas
 -----
 
-Have ideas? Fork this repo and send [pull requests][pull] but it must be on develop branch
+Have ideas? [Fork][fork] this repo and send [pull requests][pull] but it must be on develop branch
+
+[fork]:https://github.com/Riverajakob11/Simply-Black/fork
 
 [pull]:https://github.com/Riverajakob11/Simply-Rainmeter-Theme/pull/new/master
 
