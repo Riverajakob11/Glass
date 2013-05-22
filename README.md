@@ -2,7 +2,7 @@ Simply Black Rainmeter Theme
 ======================
 Vist this repo's [website][site]
 
-[site]:http://riverajakob11.github.io/Simply-Rainmeter-Theme
+[site]:http://riverajakob11.github.io/Simply-Black
 
 Latest Version
 --------------
